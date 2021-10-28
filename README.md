@@ -1,6 +1,6 @@
 # 
 ```
-express 
+npm install express 
 ```
 
 - https://github.com/apollographql/apollo-server
